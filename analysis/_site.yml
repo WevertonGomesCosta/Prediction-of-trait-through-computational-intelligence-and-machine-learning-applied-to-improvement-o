@@ -1,0 +1,17 @@
+name: "Prediction-of-trait-through-computational-intelligence-and-machine-learning-applied-to-improvement-o"
+output_dir: ../docs
+navbar:
+  title: "Prediction-of-trait-through-computational-intelligence-and-machine-learning-applied-to-improvement-o"
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: License
+    href: license.html
+output:
+  workflowr::wflow_html:
+    toc: yes
+    toc_float: yes
+    theme: cosmo
+    highlight: textmate
